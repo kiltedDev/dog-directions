@@ -1,0 +1,4 @@
+.node_modules/*
+public/bundle.js
+.lesson.yml
+dog-directions.md
